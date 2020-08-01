@@ -1,0 +1,29 @@
+Category,Field,Adjustable,Initial Seed,Variance,Max Daily Growth,Min Daily Growth
+Health,Chronic disease claim data,FALSE,40,4,0.03,-0.01
+Health,Socioeconomic census data,FALSE,20,5,0,0
+Health,Other demographic data,FALSE,40,3,0,0
+Health,Density,FALSE,30,7,0.01,-0.03
+Health,Comorbidity,FALSE,40,3,0.03,-0.05
+Health,Chronic Disease,FALSE,40,4,0.03,-0.01
+Capacity of Care,Available Beds,TRUE,25,8,0.02,0
+Capacity of Care,Convertible Bed Capacity,TRUE,28,10,0.1,0
+Capacity of Care,Trained Health workers,TRUE,22,4,0.02,0
+Capacity of Care,PPE Supply,TRUE,12,2,0.1,-0.01
+Capacity of Care,Testing capacity,TRUE,12,2,0.1,0
+Capacity of Care,Ventilators,TRUE,10,1,0.1,0
+Environmental,Temp/humidity,FALSE,30,5,0,0
+Environmental,Mobility/Activity,TRUE,50,2,0.5,0
+Environmental,Green Space per Person,FALSE,28,1,0.1,-0.05
+Environmental,PM 2.5 concentration,FALSE,10,1,0.5,0
+Behavioral,PPE Usage,TRUE,5,1,2,0
+Behavioral,Social Listening,TRUE,10,2,2,0
+Behavioral,Cable News Viewership,FALSE,20,4,2,-0.1
+Behavioral,Talk Radio Penetration,FALSE,20,4,2,-0.1
+Behavioral,Tabloid Sales,FALSE,20,4,2,-0.1
+Behavioral,Political Affiliation,FALSE,20,4,2,-0.1
+Industrial,Occupational risk score,TRUE,40,10,0,0
+Industrial,Commercial Density,FALSE,40,10,0,0
+Industrial,Tourism Propensity,TRUE,50,25,2,0
+Industrial,Entertainment ,TRUE,40,10,2,0
+Industrial,Church attendance,TRUE,5,1,2,0
+Industrial,Unemployment rate,FALSE,80,15,2,0
